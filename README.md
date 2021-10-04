@@ -8,4 +8,4 @@
 | 4 | [Lectura 4](https://github.com/maguzman5/lecturasIIC3633-2021/blob/main/Semana4/lectura4.MD)  |
 | 5 | [Lectura 5](https://github.com/maguzman5/lecturasIIC3633-2021/blob/main/Semana5/lectura5.MD)  |
 | 6 | [Lectura 6](https://github.com/maguzman5/lecturasIIC3633-2021/blob/main/Semana6/lectura6.MD)  |
-| 7 | [Lectura 7](#)  |
+| 7 | [Lectura 7](https://github.com/maguzman5/lecturasIIC3633-2021/blob/main/Semana7/lectura7.MD)  |
